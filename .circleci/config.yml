@@ -18,7 +18,7 @@ jobs:
 
   Update_manifest:
     docker:
-      - image: cimg/base:2023.06
+      - image: cimg/base:2023.07
     steps:
       - checkout
       - setup_remote_docker
