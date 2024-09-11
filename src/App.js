@@ -87,7 +87,7 @@ class App extends Component {
                         fontWeight: "bolder",
                     }}
                 >
-                    TODO LIST
+                    ZaYn Rauf TODO LIST
                 </Row>
   
                 <hr />
